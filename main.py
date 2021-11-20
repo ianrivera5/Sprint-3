@@ -16,18 +16,18 @@
 #         total += num_2
 # print(total)
 
-# Question 3
+# Question 6
 # def difference(num):
 #     return (((num ** 2) * (num + 1) ** 2) / 4) - (num * (num + 1) * (2 * num + 1) / 6)
 #
 #
 # print(difference(100))
 
-# Question 4
+# Question 5
 # numbers = 2 * 2 * 2 * 2 * 3 * 3 * 5 * 7 * 11 * 13 * 17 * 19
 # print(numbers)
 
-# Question 5
+# Question 4
 # num_max = 0
 # for dig in range(100, 999):
 #     for dig_1 in range(100, 999):
